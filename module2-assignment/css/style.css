@@ -24,8 +24,8 @@
 
 .subtitle{
     position: absolute;
-    top: -2px;
-    right: -2px;
+    top: -1px;
+    right: -1px;
     border: 1px solid black;
     font-size: larger;
     width: 120px;
