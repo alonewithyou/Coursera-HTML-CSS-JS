@@ -1,0 +1,52 @@
+#header-nav {
+    background-color: gray;
+    border-radius: 0;
+    position: relative;
+    margin-bottom: 0;
+}
+
+#title-nav{
+    margin: 10px 20px;
+}
+
+.navbar-header{
+    padding: 0;
+}
+
+#nav-list{
+    margin-top: -1px;
+}
+
+
+#nav-list span{
+    text-align: center;
+}
+
+@media (max-width: 767px){
+    #collapsable-nav{
+        background-color: white;       
+    }
+}
+
+#nav-button{
+    background-color: white;
+    border-color: black;
+    margin-top: 15px;
+}
+
+#nav-list li{
+    font-size: 1.5em;
+    text-align: center;
+    border-top: 2px solid;
+    border-color: black;
+}
+
+#nav-list li:nth-child(3){
+    border-bottom: 2px solid;
+}
+
+.menu-item{
+    margin-bottom: 20px;
+    padding-bottom: 10px;
+    background-color: lightblue;
+}
